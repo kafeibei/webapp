@@ -1,0 +1,27 @@
+{
+	"name" : "public-sources",
+	"version": "0.0.1",
+	"keywords": ["seajs", "h5Clent"],
+	"scripts": {
+    	"sea": "sea.js",
+    	"spin": "spin.min.js",
+    	"template": "template.js",
+    	"zepto": "zepto.min.js",
+    	"h5Client" : "h5Client.js",
+    	"log" : "log.js",
+    	"print" : "print.min.js",
+    	"toast" : "toast.min.js"
+  	},
+  	"images" : {
+  		"nodata" : "nodata.png"
+  	},
+  	"styles" : {
+  		"common" : "common.css"
+  	},
+  	"create" : "2015-04-20",
+  	"update" : {
+  		"time" : "2015-04-21",
+  		"reason" : "h5Client增加goHome方法，重置textarea默认样式",
+  		"author" : "Cary"
+  	}
+}

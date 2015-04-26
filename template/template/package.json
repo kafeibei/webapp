@@ -1,0 +1,20 @@
+{
+	"name" : "template",
+	"version": "0.0.1",
+	"keywords": ["order", "share"],
+	"scripts": {
+    	
+  	},
+  	"images" : {
+  		
+  	},
+  	"styles" : {
+  		"views" : "views.css"
+  	},
+  	"create" : "2015-04-22",
+  	"update" : {
+  		"time" : "2015-04-22",
+  		"reason" : "新建模板",
+  		"author" : "Cary"
+  	}
+}
